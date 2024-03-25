@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<!--
 [![Ivan's GitHub stats](https://github-readme-stats-roan-five-64.vercel.app/api?username=kuchmenko&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+-->
